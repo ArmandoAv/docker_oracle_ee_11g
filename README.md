@@ -32,7 +32,7 @@ Run:
 
     docker logs -f <docker_container_id>
 
-<span>![</span><span>Oracle DB creation log</span><span>]</span><span>(</span><span>https://github.com/ArmandoAv/docker_oracle_ee_11g/tree/main/images/Container_Log.png</span><span>)</span>
+![Oracle DB creation log](https://github.com/ArmandoAv/docker_oracle_ee_11g/blob/main/images/Container_Log.png)
 
 When in the log you can see:
 
@@ -72,7 +72,7 @@ Once connected to the DB, the following commands are executed to format the data
     SET LINESIZE 1800
     SET PAGESIZE 30
 
-<span>![</span><span>Connection to the Oracle DB</span><span>]</span><span>(</span><span>https://github.com/ArmandoAv/docker_oracle_ee_11g/tree/main/images/Container_Execution.png</span><span>)</span>
+![Connection to the Oracle DB](https://github.com/ArmandoAv/docker_oracle_ee_11g/blob/main/images/Container_Execution.png)
 
 To exit the SQL console execute the following command:
 
